@@ -12,3 +12,8 @@ C:\test\csharp02\app01\obj\Debug\net8.0\refint\app01.dll
 C:\test\csharp02\app01\obj\Debug\net8.0\app01.pdb
 C:\test\csharp02\app01\obj\Debug\net8.0\app01.genruntimeconfig.cache
 C:\test\csharp02\app01\obj\Debug\net8.0\ref\app01.dll
+C:\test\csharp02\app01\bin\Debug\net8.0\Class2.dll
+C:\test\csharp02\app01\bin\Debug\net8.0\Class2.pdb
+C:\test\csharp02\app01\obj\Debug\net8.0\app01.csproj.AssemblyReference.cache
+C:\test\csharp02\app01\obj\Debug\net8.0\app01.sourcelink.json
+C:\test\csharp02\app01\obj\Debug\net8.0\app01.csproj.Up2Date
