@@ -2,7 +2,7 @@
 
 public class Class1
 {
-    public string Name { get; set; }
+    public required string Name { get; set; }
 
     public void Ace01()
     {
